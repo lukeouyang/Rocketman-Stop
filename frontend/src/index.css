@@ -20,6 +20,10 @@ h2 {
   margin: 0.1rem;
 }
 
+.card-body {
+  padding: 1.2rem;
+}
+
 /* carousel */
 .carousel-item-next,
 .carousel-item-prev,
