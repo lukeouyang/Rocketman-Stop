@@ -1,0 +1,17 @@
+{
+  "name": "rocketmanstop",
+  "version": "1.0.0",
+  "description": "Web Store for Electronics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "keywords": [
+    "E-Commercce"
+  ],
+  "author": "Luke Ouyang",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
